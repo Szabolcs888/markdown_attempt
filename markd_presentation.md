@@ -3,4 +3,5 @@
 ## A kísérlet
 
 Itt most megnézzük a beágyazás, formázás *lehetõségeit*.
-Nem lesz egy túl hosszú tanulmány.
+
+Nem lesz egy túl hosszú _tanulmány_.
