@@ -15,3 +15,10 @@ Nem lesz egy túl hosszú **tanulmány**.
 [ez egy nemes esemény](https://www.facebook.com/events/675039704608937?active_tab=about)
 
 [ez egy nemes esemény](https://www.google.com "az oldal")
+
+![alt text](https://scontent-vie1-1.xx.fbcdn.net/v/t39.30808-6/391752047_710382624465361_927082145575485672_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=5f2048&_nc_ohc=XQmNJ8RL9XYAX-tOsFl&_nc_ht=scontent-vie1-1.xx&oh=00_AfDVxRIElgT7wD-Jd4gouExmNL-gGSVq3kD2j_LWbO6GXw&oe=65403F90"ez a foto")
+
+
+![alt text][logo]
+
+[logo]: https://scontent-vie1-1.xx.fbcdn.net/v/t39.30808-6/391752047_710382624465361_927082145575485672_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=5f2048&_nc_ohc=XQmNJ8RL9XYAX-tOsFl&_nc_ht=scontent-vie1-1.xx&oh=00_AfDVxRIElgT7wD-Jd4gouExmNL-gGSVq3kD2j_LWbO6GXw&oe=65403F90"és mégegyszer"
