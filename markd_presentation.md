@@ -30,6 +30,9 @@ Nem lesz egy túl hosszú **tanulmány**.
 | col 2 is      | centered      |   $12 |
 | zebra stripes | are neat      |    $1 |
 
+
+
+
 > Megjelölt sorok
-> jól néz ki
+  jól néz ki
 ---
