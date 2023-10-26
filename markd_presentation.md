@@ -8,15 +8,10 @@ Nem lesz egy túl hosszú **tanulmány**.
 
 #### Nézzük a listát
 
-..* ez nagyon szép
-..* ez is
-..* és még ez
+1. ez nagyon szép
+2. ez is
+3. és még ez
 
 [ez egy nemes esemény](https://www.facebook.com/events/675039704608937?active_tab=about)
 
-??* Unordered sub-list. 
-??* Unordered sub-list2. 
-
-1. Actual numbers don't matter, just that it's a number
-??1. Ordered sub-list
-4. And another item.
+[ez egy nemes esemény](https://www.google.com "az oldal")
