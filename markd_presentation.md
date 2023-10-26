@@ -35,6 +35,4 @@ Nem lesz egy túl hosszú **tanulmány**.
 
 > Megjelölt sorok
 
-
-  jól néz ki
 ---
